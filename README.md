@@ -20,6 +20,7 @@
 | tool-api-export | 从后端接口代码生成 OpenAPI / Apifox / Postman / Markdown 等格式的 API 文档 |
 | tool-ssh-skill | SSH / 服务器操作(持久连接、连接池、跳板机、SFTP、隧道等) |
 | tool-web-fetch | 本地搜索引擎与网页内容获取,绕过 WebSearch / WebFetch 域名限制 |
+| tool-zentao | 调用禅道(ZenTao)RESTful API,覆盖项目、产品、需求、Bug、任务等 20 个模块的增删改查与状态流转 |
 
 ### 办公文档处理
 
