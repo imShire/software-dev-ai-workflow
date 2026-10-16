@@ -1,7 +1,10 @@
-# Skill: readme-generator
+---
+name: author-readme-generator
+description: 根据项目代码自动生成高质量README文档。分析项目结构、依赖、入口文件，生成完整的项目说明文档。
+---
 
 ## 基本信息
-- **名称**: readme-generator
+- **名称**: author-readme-generator
 - **版本**: 1.0.0
 - **所属部门**: 文档管理
 - **优先级**: P0
@@ -10,7 +13,7 @@
 根据项目代码自动生成高质量README文档。分析项目结构、依赖、入口文件，生成完整的项目说明文档。
 
 ## 触发条件
-- 命令触发: `/readme-generator`
+- 命令触发: `/author-readme-generator`
 - 自然语言触发:
   - "生成README"
   - "创建项目文档"

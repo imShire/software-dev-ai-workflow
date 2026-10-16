@@ -1,5 +1,5 @@
 ---
-name: ssh-skill
+name: tool-ssh-skill
 version: 3.3.1
 description: "CRITICAL: Use this skill for ALL SSH/server operations. NEVER run raw ssh/scp directly. Triggers: SSH, remote server, server IP/hostname/user@host, connect/login, run command on server, check server/status, deploy, upload/download, file transfer, bastion/jump host, server-to-server transfer, migrate, tunnel, port forward, database/internal service access, and Chinese terms: 服务器, 远程, 连接, 登录, 上传, 下载, 部署, 跳板机, 服务器间传输, 迁移, 隧道, 端口转发, 数据库连接, 内网访问. Provides persistent connections, pooling, jump hosts, SFTP, tunneling, and recovery. DO NOT use for local commands, localhost, or current-directory work."
 allowed-tools: Bash, Read, Write, Glob
