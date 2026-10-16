@@ -8,7 +8,7 @@
 
 | Skill | 说明 |
 | --- | --- |
-| author-README生成 | 根据项目代码自动生成高质量 README 文档 |
+| author-readme-generator | 根据项目代码自动生成高质量 README 文档 |
 | author-build-project-docs | 为项目构建分层式 LLM 友好文档体系(项目扫描、CLAUDE.md 索引、模块文档、变更日志) |
 | author-skill | Skill 编写专家,用于创建、编辑和验证 Claude Code Skill |
 | manage-claude-session | Claude Code 历史会话查询、分析、提取与总结 |
